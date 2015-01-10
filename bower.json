@@ -1,0 +1,26 @@
+{
+  "name": "brahma.wheel",
+  "version": "1.0.0",
+  "authors": [
+    "Morulus <vladimirmorulus@gmail.com>"
+  ],
+  "description": "Plugin for Brahma for listen mouse wheel",
+  "main": [
+    "brahma.wheel.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "brahmajs",
+    "mouse",
+    "plugin",
+    "wheel",
+    "support"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/morulus/brahma.wheel",
+  "dependencies": {
+    "brahma": ">=1.2.0"
+  }
+}
